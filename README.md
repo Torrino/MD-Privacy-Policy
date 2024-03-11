@@ -1,11 +1,6 @@
 ---
 description: Official privacy policy of Medieval Discord.
-cover: .gitbook/assets/banner pencil side.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
