@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Policy](README.md)
+* [Privacy Policy](README.md)
