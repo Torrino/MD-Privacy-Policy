@@ -1,2 +1,22 @@
-# MD-Privacy-Policy
-The official Privacy Policy of Medieval Discord.
+---
+description: Official privacy policy of Medieval Discord.
+cover: .gitbook/assets/banner pencil side.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Policy
+
